@@ -1,0 +1,20 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "This an Sample API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palanishankarjdev/Sample-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palanishankarjdev/Sample-API/issues"
+  },
+  "homepage": "https://github.com/palanishankarjdev/Sample-API#readme"
+}
